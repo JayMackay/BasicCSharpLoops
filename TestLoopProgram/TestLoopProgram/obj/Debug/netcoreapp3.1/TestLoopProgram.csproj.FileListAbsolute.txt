@@ -1,0 +1,8 @@
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\obj\Debug\netcoreapp3.1\TestLoopProgram.csprojAssemblyReference.cache
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\obj\Debug\netcoreapp3.1\TestLoopProgram.AssemblyInfoInputs.cache
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\obj\Debug\netcoreapp3.1\TestLoopProgram.AssemblyInfo.cs
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\bin\Debug\netcoreapp3.1\TestLoopProgram.deps.json
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\bin\Debug\netcoreapp3.1\TestLoopProgram.dll
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\bin\Debug\netcoreapp3.1\TestLoopProgram.pdb
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\obj\Debug\netcoreapp3.1\TestLoopProgram.dll
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\TestLoopProgram\TestLoopProgram\obj\Debug\netcoreapp3.1\TestLoopProgram.pdb
