@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TECH-W141birm\\Desktop\\Transfer\\TestLoopProgram\\TestLoopProgram\\TestLoopProgram.csproj",
+      "projectUniqueName": "C:\\Users\\TECH-W141birm\\Desktop\\Looping Through Arrays\\TestLoopProgram\\TestLoopProgram\\TestLoopProgram.csproj",
       "projectName": "TestLoopProgram",
-      "projectPath": "C:\\Users\\TECH-W141birm\\Desktop\\Transfer\\TestLoopProgram\\TestLoopProgram\\TestLoopProgram.csproj",
+      "projectPath": "C:\\Users\\TECH-W141birm\\Desktop\\Looping Through Arrays\\TestLoopProgram\\TestLoopProgram\\TestLoopProgram.csproj",
       "packagesPath": "C:\\Users\\TECH-W141birm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TECH-W141birm\\Desktop\\Transfer\\TestLoopProgram\\TestLoopProgram\\obj\\",
+      "outputPath": "C:\\Users\\TECH-W141birm\\Desktop\\Looping Through Arrays\\TestLoopProgram\\TestLoopProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TECH-W141birm\\AppData\\Roaming\\NuGet\\NuGet.Config",

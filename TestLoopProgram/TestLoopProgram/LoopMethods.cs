@@ -44,7 +44,5 @@ namespace TestLoopProgram
             }
             return num1 / num2;
         }
-        
-        
     }
 }

@@ -45,12 +45,3 @@ namespace MethodLoopsUnitTest
 
     }
 }
-
-
-
-
-//ACT
-var exception = Assert.Throws<ArgumentException>(() =>
-    LoopMethods.calcDiv(num1, num2));
-//ASSERT
-Assert.AreEqual($"Can not divide by {num2}", exception.Message);
