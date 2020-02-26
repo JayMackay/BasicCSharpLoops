@@ -1,0 +1,11 @@
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\bin\Debug\netcoreapp3.1\ArrayLib.exe
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\bin\Debug\netcoreapp3.1\ArrayLib.deps.json
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\bin\Debug\netcoreapp3.1\ArrayLib.runtimeconfig.json
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\bin\Debug\netcoreapp3.1\ArrayLib.runtimeconfig.dev.json
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\bin\Debug\netcoreapp3.1\ArrayLib.dll
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\bin\Debug\netcoreapp3.1\ArrayLib.pdb
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\obj\Debug\netcoreapp3.1\ArrayLib.csprojAssemblyReference.cache
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\obj\Debug\netcoreapp3.1\ArrayLib.AssemblyInfoInputs.cache
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\obj\Debug\netcoreapp3.1\ArrayLib.AssemblyInfo.cs
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\obj\Debug\netcoreapp3.1\ArrayLib.dll
+C:\Users\TECH-W141birm\Desktop\Console Application\ArrayLib\ArrayLib\obj\Debug\netcoreapp3.1\ArrayLib.pdb
